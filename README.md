@@ -1,7 +1,7 @@
 <h1 align="center"><i>City Skyline</i></h1>
 
 
-<p align="center">FreeCodeCamp Assignment. Recreate a city at sunset and nightfall. Furthermore, it has a responsive design for mobile devices.</p>
+<p align="center">I learned how to configure CSS variables so I can use them whenever I want.</p>
 <br>
 
 <img src="https://github.com/Kingtero17/City-SkyLine/assets/110305288/81d5f905-8e6d-458a-b338-79d2f93aee0f" width=330 height=235 align="right">
